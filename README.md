@@ -10,6 +10,14 @@ In this, the tech stack is Python, and libraries such as
   <li> matplotlib </li>
 </div>
 
+Concepts:
+* Supervised Learning
+* Linear Regression Model
+* EDA
+* Hyper parameter Tuning
+* Cross Validation
+* Normalization of the data and why
+
 The steps are as follows:
 1. We start with loading, importing the data,
 2. Exploratory data analysis:
